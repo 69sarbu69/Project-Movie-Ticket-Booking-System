@@ -1,5 +1,5 @@
 # Project-Movie-Ticket-Booking-System
-This is our First Semester University Project.
+This is our First Semester University Project of C Programming.
 
 Team Members:
 Sarbagya Gho Shrestha,
