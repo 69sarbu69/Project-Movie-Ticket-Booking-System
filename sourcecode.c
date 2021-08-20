@@ -1,8 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include <string.h>
-#include<conio.h>
-#include<dos.h>
 struct book
 {
 	char code[20];
