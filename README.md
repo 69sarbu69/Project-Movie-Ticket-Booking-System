@@ -2,7 +2,7 @@
 This is our First Semester University Project.
 
 Team Members:
-Sarbagya Gho Shrestha
-Aabhash Thapa
-Rhythm Panth
-Pranesh Pyara Shrestha
+Sarbagya Gho Shrestha,
+Aabhash Thapa,
+Rhythm Panth,
+Pranesh Pyara Shrestha.
