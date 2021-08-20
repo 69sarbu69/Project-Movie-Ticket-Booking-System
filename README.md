@@ -4,5 +4,5 @@ This is our First Semester University Project of C Programming.
 Team Members:
 Sarbagya Gho Shrestha,
 Aabhash Thapa,
-Rhythm Panth,
+Rhythm Pantha,
 Pranesh Pyara Shrestha.
