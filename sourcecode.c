@@ -3,21 +3,21 @@
 #include <string.h>
 #include <conio.h>
 struct book
-{
+ {
 	char code[20];
 	char name[100];
 	int date;
 	int cost;
-};
+ };
 struct old
-{
+ {
     char nam[100];
     char mob[100];
     char moviename[100];
     int total;
     int seats;
     int booked[20];
-};
+ };
 struct logon
 {
     char fname[90];
